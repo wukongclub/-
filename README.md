@@ -21,3 +21,4 @@
 黄跃文  徐彪 余仁勇 陈坦 孙小强
 
 产品预览
+！image[温度传感器]（https://github.com/wukongclub/pics/pic1.png）
